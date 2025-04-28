@@ -136,5 +136,6 @@ Vim از regular expression (regex) پشتیبانی می‌کنه:
 برای جستجو بین دستورات قبلی:
 - `:` تایپ کن و بعد `/` یا `Ctrl+F`
 
-[[vim configurations]]
 
+
+[[macros]]
