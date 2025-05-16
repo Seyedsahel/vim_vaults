@@ -145,4 +145,4 @@
 :help mark-motions
 ```
 
-[[commands]]
+[[macros]]

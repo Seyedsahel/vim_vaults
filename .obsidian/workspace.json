@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "vim configurations.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c0bc941eda8460fb",
@@ -170,12 +171,12 @@
   },
   "active": "db7cde4af996fa33",
   "lastOpenFiles": [
-    "macros.md",
     "commands.md",
-    "history of vim.md",
-    "vim configurations.md",
+    "macros.md",
     "Moving around.md",
     "basic of vim.md",
+    "history of vim.md",
+    "vim configurations.md",
     "README.md",
     "Pasted image 20250425143506.png",
     "Pasted image 20250425140009.png",

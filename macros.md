@@ -143,4 +143,4 @@ q
 ```
 
 
-[[vim configurations]]
+[[commands]]

@@ -138,4 +138,4 @@ Vim از regular expression (regex) پشتیبانی می‌کنه:
 
 
 
-[[macros]]
+[[vim configurations]]
